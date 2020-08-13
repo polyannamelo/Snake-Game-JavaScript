@@ -1,2 +1,14 @@
-# Snake-Game-JavaScript
-Desafio da Digital Innovation One - Recriando o jogo da cobrinha utilizando JavaScript/CSS3/HTML
+<h1 align="center">
+Snake Game </h1>
+
+<h1 align="center"><img src="cobra.jpg"></h1>
+
+
+# Tecnologias utilizadas
+- JavaScript
+- CSS
+- HTML
+
+
+
+ 
